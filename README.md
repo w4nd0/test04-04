@@ -1,7 +1,6 @@
-# Teste Esparta
+# Teste 3 
 
-Este projeto é parte dos testes para a empresa Esparta.
-Consiste em um back-end simples desenvolvida em Django utilizando e SQLite, que permite realizar funções de CRUD. E um front-end feito utilizando ReactJS consumindo essa API.
+Consiste em um back-end simples desenvolvido em Django, que permite realizar funções de CRUD e um front-end utilizando ReactJS, que utiliza essa API.
 
 
 ### Instalação
