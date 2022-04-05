@@ -32,10 +32,8 @@ public class Solution{
 }
 
 /********************************************************************************************
- * References:                                                                              *
+ * Reference:                                                                              *
  *                                                                                          *
- * https://docs.oracle.com/javase/tutorial/essential/environment/cmdLineArgs.html           *                           *
- * https://www.geeksforgeeks.org/remove-an-element-at-specific-index-from-an-array-in-java/ * 
  * Java Como programar - Deitel 10ª edição                                                  *
  *                                                                                          *                 
  *******************************************************************************************/
