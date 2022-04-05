@@ -1,7 +1,6 @@
-# Teste 3 
+# Teste 3
 
-Consiste em um back-end simples desenvolvido em Django, que permite realizar funções de CRUD e um front-end utilizando ReactJS, que utiliza essa API.
-
+Consiste em um back-end simples desenvolvido em Django, que permite realizar funções de CRUD e um front-end em ReactJS, que utiliza essa API.
 
 ### Instalação
 
@@ -62,7 +61,6 @@ $ yarn dev
 ## Endereço
 
 http://localhost:3000/
-
 
 ## Autor
 
