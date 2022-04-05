@@ -40,10 +40,10 @@ Na sequencia rodar o servidor da aplicação:
 $ python manage.py runserver
 ```
 
-Agora navegar até pasta do front:
+Em um outro terminal, navegar até pasta do front:
 
 ```
-$ cd ../front_test/
+$ cd front_test/
 ```
 
 Instalar as dependências:
